@@ -1,7 +1,7 @@
 ### Oii👋, Eu sou Tainá Diniz 
 
-- 🔭 Sou estudante do curso Ciência de Dados para Negócios na UFPB
-- 🌱 Estudando Python e R
+-  Sou estudante do curso Ciência de Dados para Negócios na UFPB
+-  Estudando Python e R
 
 
 <div>
