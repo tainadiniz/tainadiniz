@@ -16,7 +16,7 @@
 <img align = "center" alt= Taina-Py height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 <img align = "center" alt= Taina-Py height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >        
 <img align = "center" alt= Taina-Py height="30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
-<img align = "center" alt= Taina-Py height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"> 
+<img align = "center" alt= Taina-Py height="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"> 
 </div>
 
 ## Contatos:
